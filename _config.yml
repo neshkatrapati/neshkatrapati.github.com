@@ -10,13 +10,12 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Amble
-tagline: Created From Inspirations
+tagline: Created From Inspirations 
 author :
   name : Ganesh Katrapati
   email : ganesh.katrapati@research.iiit.ac.in
   github : neshkatrapati
   twitter : neshmailsu
-  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
