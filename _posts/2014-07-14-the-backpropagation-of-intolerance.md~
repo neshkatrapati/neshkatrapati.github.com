@@ -1,8 +1,0 @@
----
-layout: post
-title: "The Backpropagation of Intolerance"
-description: ""
-category: 
-tags: []
----
-{% include JB/setup %}
